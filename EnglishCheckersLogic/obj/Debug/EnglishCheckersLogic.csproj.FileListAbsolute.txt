@@ -1,0 +1,7 @@
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.dll.config
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.dll
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.pdb
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.csprojAssemblyReference.cache
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.dll
+C:\Users\amira\Desktop\לימודים\שנה ג\קיץ\c#\תרגיל 5\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.pdb
